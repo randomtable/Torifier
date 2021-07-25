@@ -6,4 +6,5 @@ gsettings set org.gnome.system.proxy mode 'manual'
 sudo bash -c 'systemctl stop NetworkManager.service'
 sudo bash -c 'systemctl start NetworkManager.service'
 sudo bash -c 'systemctl restart NetworkManager.service'
+echo ""
 echo "You are now torified! Test for connection and DNS leaks before intensive use!"
