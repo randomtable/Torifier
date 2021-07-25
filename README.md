@@ -4,6 +4,8 @@ Redirect all traffic through Tor Network
 # The project
 With this project you can redirect all your local connection through the Tor Network.
 
+Unlike other similari projects, with this method you can connect ti Tor through a Snowflake bridge.
+
 Scripts has been tested on a Kali Linux with GNOME, other systems or configurations has not been tested.
 
 I suggest to use this project on a dedicated system or a dedicated VM.
